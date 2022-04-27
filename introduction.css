@@ -1,3 +1,11 @@
+body{
+    width:100%;
+	height:100%;
+    min-width:1000px;
+    position:relative;
+    display: flex;
+    justify-content: center;
+}
 #main{
 	width:100%;
 	height:100%;
@@ -19,20 +27,20 @@ h2 {
     font-size:large;
 	text-align:justify;
     margin-left: 20px;
-    margin-right: 720px;
+    margin-right: auto;
 }
 
 #p2{
     font-size:large;
 	text-align:justify;
     margin-left: 20px;
-    margin-right: 720px;
+    margin-right: auto;
 }
 #p3{
     font-size:large;
 	text-align:justify;
     margin-left: 20px;
-    margin-right: 720px;
+    margin-right: auto;
 }
 
 #image1{
